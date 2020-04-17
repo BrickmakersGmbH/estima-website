@@ -1,0 +1,21 @@
+- links:
+  - name: Privacy
+    link: https://www.brickmakers.de/datenschutz/
+    new_window: true
+  - name: Imprint
+    link: https://www.brickmakers.de/impressum/
+    new_window: true
+- links:
+- links:
+  - name: Facebook
+    link: https://facebook.com/brickmakers/
+    new_window: true
+    social_icon: Facebook
+  - name: Twitter
+    link: https://twitter.com/brickmakers/
+    social_icon: Twitter
+    new_window: true
+  - name: Instagram
+    link: https://instagram.com/brickmakers/
+    social_icon: Instagram
+    new_window: true
